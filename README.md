@@ -1,8 +1,6 @@
 
 <html>
-    <head>
-          <title>My first web Page</title>
-    </head>
+    
     <body>
           <h1>Welcome</h1>
 
